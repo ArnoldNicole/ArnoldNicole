@@ -1,10 +1,15 @@
-### Hi there 👋
+## Developing....
+
+<div>
+  <img height="170", align="left" src="https://github-readme-stats.vercel.app/api?username=ArnoldNicole&show_icons=true&theme=radical" />
+  <img height="170", align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldNicole&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+</div>
 
 <!--
 **ArnoldNicole/ArnoldNicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
