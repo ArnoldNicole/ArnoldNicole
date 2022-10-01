@@ -1,4 +1,9 @@
-## Developing....
+## 🦒 Hi! My name is [Arnold](https://twitter.com/wamae_arnold)
+
+<p>
+  <a href="https://twitter.com/danjharrin">
+    <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/wamae_arnold?style=for-the-badge&logo=twitter&color=00ACEE">
+  </a>
 
 <div>
   <img height="170", align="left" src="https://github-readme-stats.vercel.app/api?username=ArnoldNicole&show_icons=true&theme=radical" />
