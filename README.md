@@ -11,7 +11,8 @@
   <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArnoldNicole&theme=light" alt="Arnold Wamae" />
 </div>
 <div>
-  ### Learning....
+
+## Learning....
   
   </div>
   
