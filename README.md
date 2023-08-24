@@ -18,7 +18,8 @@
   
 [![Github profile_trophy](https://github-profile-trophy.vercel.app/?username=ArnoldNicole&theme=midnight-purple&row=2&column=4&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ArnoldNicole.ArnoldNicole) 
+
+![🪟](https://komarev.com/ghpvc/?username=your-github-username)
 
 <!--
 **ArnoldNicole/ArnoldNicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,4 +34,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ArnoldNicole.ArnoldNicole) 
 -->
