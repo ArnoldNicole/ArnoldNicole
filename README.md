@@ -18,7 +18,7 @@
   
 [![Github profile_trophy](https://github-profile-trophy.vercel.app/?username=ArnoldNicole&theme=midnight-purple&row=2&column=4&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ArnoldNicole/ArnoldNicole) 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ArnoldNicole.ArnoldNicole) 
 
 <!--
 **ArnoldNicole/ArnoldNicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
