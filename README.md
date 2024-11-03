@@ -18,7 +18,7 @@
   
   </div>
   
-[![Github profile_trophy](https://github-profile-trophy.vercel.app/?username=ArnoldNicole&theme=midnight-purple&row=2&column=4&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github profile_trophy](https://github-profile-trophy.vercel.app/?username=ArnoldNicole&theme=dracula&row=2&column=4&margin-h=15&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
