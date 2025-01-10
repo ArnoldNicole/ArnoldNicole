@@ -11,7 +11,7 @@
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ArnoldNicole&show_icons=true&theme=radical" />
   <img height="170" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnoldNicole&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
-  <img align="center" width="46%" src="https://streak-stats.demolab.com?user=ArnoldNicole&theme=light" alt="Arnold Wamae" />
+  <img height="170" align="center" width="46%" src="https://streak-stats.demolab.com/?user=ArnoldNicole&theme=light" alt="Arnold Wamae" />
 </div>
 
 <div>
