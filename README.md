@@ -15,6 +15,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=arnoldNicole&theme=highcontrast)](https://git.io/streak-stats)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldNicole&" alt="" /></p>
+
 <div>
 
 ## Growing....
